@@ -1,0 +1,13 @@
+#canvas {
+  cursor: crosshair;
+}
+
+button {
+  margin-top: -10px;
+  border: 1px solid #52b9b3;
+  width: 1000px;
+  height: 30px;
+  background-color: white;
+  color: #f36363;
+  border-bottom-right-radius: 7px;
+}
